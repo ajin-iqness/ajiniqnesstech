@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajiniqnesstech
+- 👋 Hi, I’m @ajin-iqness
 - 👀 I’m interested in Web development
 - 🌱 I’m currently working at IQness
 - 💞️ :)
